@@ -19,12 +19,12 @@ html {
   }
 
   article {
-    background-color: #513eff;
+    background-color: #2db234;
     border: 7px solid #95ffd5;
     border-radius: 30px;
     padding: 12px;
     margin: 12px;
-    background: rgb(108, 89, 255);
+    background: rgb(180, 212, 54);
   }
  section {
   display:flex;
