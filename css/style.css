@@ -1,0 +1,33 @@
+html {
+    font-family: sans-serif;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  header {
+    background: rgb(255, 133, 96);
+    height: 100px;
+  }
+
+  h1 {
+    text-align: center;
+    color: white;
+    line-height: 100px;
+    margin: 0;
+  }
+
+  article {
+    background-color: #EEDDFF;
+    border: 6px solid #ffb774;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+    background: rgb(151, 226, 255);
+  }
+ section {
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+ }
